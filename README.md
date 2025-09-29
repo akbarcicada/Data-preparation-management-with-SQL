@@ -42,5 +42,3 @@ README.md → deskripsi proyek
 ## ✉️ Kontak
 - [LinkedIn](http://linkedin.com/in/ilham-akbar-3301abc)  
 - [Email](mailto:ilhamakr3301@gmail.com)  
-
-## 📂 Struktur Repo
